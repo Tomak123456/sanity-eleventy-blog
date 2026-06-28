@@ -1,4 +1,4 @@
-# Blog with Eleventy 
+# Blog with Eleventy v1.1
 
 _Simple blog starter with [11ty](https://11ty.io)._
 
